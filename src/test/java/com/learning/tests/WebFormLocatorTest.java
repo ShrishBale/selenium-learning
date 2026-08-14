@@ -25,6 +25,7 @@ public class WebFormLocatorTest {
 
             // Type text into the field
             textBox.sendKeys("Testing selenium locators");
+
             // Click Submit
             submitButton.click();
 
